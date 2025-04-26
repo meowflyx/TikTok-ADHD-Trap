@@ -2,7 +2,7 @@
 
 > **Vibe-Coded**: создано нейросетями (GitHub Copilot + GPT-4.1)
 
-[🇬🇧 Read in English](README_en.md5)
+[🇬🇧 Read in English](README_en.md)
 
 ---
 
