@@ -6,7 +6,7 @@
 
 ---
 
-![demo](demo.gif)
+<img src="demo.gif" alt="demo" autoplay loop>
 
 ## Что это? 🤔
 
@@ -23,12 +23,17 @@
 
 ## Как запустить? 🚀
 
-1. Установи Python 3.8+
-2. Установи зависимости:
+1. Клонируйте репозиторий:
+   ```bash
+   git clone https://github.com/meowflyx/TikTok-ADHD-Trap.git
+   cd TikTok-ADHD-Trap
+   ```
+2. Установи Python 3.8+
+3. Установи зависимости:
    ```bash
    pip install pygame
    ```
-3. Запусти:
+4. Запусти:
    ```bash
    python adhd.py
    ```
